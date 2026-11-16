@@ -1,0 +1,6 @@
+{
+  "name": "PhantomX Panel",
+  "description": "Futuristic Sci-Fi Gaming Dashboard with neon blue and red cyberpunk UI, live demo FPS and ping telemetry, customizable visual HUD layouts, and an animated crosshair design gallery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

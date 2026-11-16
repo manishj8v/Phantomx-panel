@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">PhantomX Panel</string>
+    <string name="app_subtitle">SCI-FI GAMING DASHBOARD</string>
+    <string name="status_online">TELEMETRY LIVE</string>
+    <string name="status_paused">STANDBY</string>
+    <string name="version_tag">v3.0 CYBER HUD</string>
+    <string name="disclaimer_text">Visual Gaming Interface Demo — Simulated FPS, ping, and animated HUD previews only.</string>
+    <string name="nav_dashboard">Dashboard</string>
+    <string name="nav_hud">HUD Layout</string>
+    <string name="nav_crosshairs">Reticles</string>
+    <string name="nav_profile">Profile</string>
+    <string name="cd_logo_icon">PhantomX Emblem</string>
+    <string name="cd_disclaimer_icon">Demo Mode Information</string>
+    <string name="cd_profile_avatar">Gamer Cyber Avatar</string>
+    <string name="cd_cyber_banner">Sci-Fi Grid Backdrop</string>
+</resources>
